@@ -16,9 +16,8 @@ p{ text-align: center;
 }
 
 #banner{
-    width: 100%;
-}
-
+    display: block;
+    margin: 0 auto;
 
 strong{
     color: blue;
