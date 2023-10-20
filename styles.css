@@ -16,6 +16,11 @@ p{ text-align: center;
 }
 
 #banner{
+   width: 100%;
+}
+
+
+#banner2{
     display: block;
     margin: 0 auto;
 }
