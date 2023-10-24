@@ -7,12 +7,23 @@ h1{ text-align: center;
     color: red;
 }
 
-p{ text-align: center;
+.p1{ text-align: justify;
     font-size: 20px;
+    color:darkgreen
 }
 
-#missão{
-    color: green
+.p2{ text-align: justify;
+    font-size: 20px;
+    color: darkolivegreen;
+}
+
+.p3{ text-align: justify;
+    font-size: 20px;
+    color: forestgreen;
+}
+
+#titulo1{
+    color:red
 }
 
 #banner{
