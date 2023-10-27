@@ -38,3 +38,7 @@ h1{ text-align: center;
 strong{
     color: blue;
 }
+
+.itens {
+    font-size: italic;
+}
