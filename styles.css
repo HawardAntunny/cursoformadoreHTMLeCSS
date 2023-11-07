@@ -26,11 +26,12 @@ h1{ text-align: center;
     color:red
 }
 
-
-#banner {
-    width: 300px; /* Defina a largura desejada */
-    height: 100px; /* Defina a altura desejada */
+#banner{
+   width: 50%;
 }
+
+
+
 
 #banner2{
     display: block;
