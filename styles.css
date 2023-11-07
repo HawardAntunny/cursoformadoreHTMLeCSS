@@ -26,10 +26,11 @@ h1{ text-align: center;
     color:red
 }
 
-#banner{
-   width: 100%;
-}
 
+#banner {
+    width: 300px; /* Defina a largura desejada */
+    height: 200px; /* Defina a altura desejada */
+}
 
 #banner2{
     display: block;
@@ -45,10 +46,12 @@ strong{
 
 .beneficios{
     background: white;
+    padding: 30px;
 }
 
 .principal{
     background: #CCCCCC;
+    padding: 30px;
 }
 
 h2{
