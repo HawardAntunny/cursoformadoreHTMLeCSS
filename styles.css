@@ -55,6 +55,12 @@ h2{
     text-align: center;
 }
 
-#banner3 {
+ul{
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.banner3 {
     width: 50px;
 }
